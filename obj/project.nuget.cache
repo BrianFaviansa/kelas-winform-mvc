@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gKrJxeQ/KN7ag8xgL9+DciqxKzRhl2f+XUTyT/Dfwrcy/kYL2R8QjETvNbw3BrSInfPXnmOvLyz2RHRyfhB9NQ==",
+  "success": true,
+  "projectFilePath": "E:\\01. KULIAH\\02. Ngoding\\Belajar Ngoding\\C#\\winform_mvc\\winform_mvc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\brian\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\brian\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\brian\\.nuget\\packages\\npgsql\\8.0.5\\npgsql.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

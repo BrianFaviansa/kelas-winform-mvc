@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\01. KULIAH\\02. Ngoding\\Belajar Ngoding\\C#\\winform_mvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB292E26-21AB-425E-B79C-E077FD7DBA45}|winform_mvc.csproj|E:\\01. KULIAH\\02. Ngoding\\Belajar Ngoding\\C#\\winform_mvc\\views\\addmahasiswaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB292E26-21AB-425E-B79C-E077FD7DBA45}|winform_mvc.csproj|solutionrelative:views\\addmahasiswaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB292E26-21AB-425E-B79C-E077FD7DBA45}|winform_mvc.csproj|e:\\01. kuliah\\02. ngoding\\belajar ngoding\\c#\\winform_mvc\\views\\addmahasiswaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB292E26-21AB-425E-B79C-E077FD7DBA45}|winform_mvc.csproj|solutionrelative:views\\addmahasiswaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB292E26-21AB-425E-B79C-E077FD7DBA45}|winform_mvc.csproj|e:\\01. kuliah\\02. ngoding\\belajar ngoding\\c#\\winform_mvc\\views\\addmahasiswaform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB292E26-21AB-425E-B79C-E077FD7DBA45}|winform_mvc.csproj|solutionrelative:views\\addmahasiswaform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB292E26-21AB-425E-B79C-E077FD7DBA45}|winform_mvc.csproj|E:\\01. KULIAH\\02. Ngoding\\Belajar Ngoding\\C#\\winform_mvc\\app\\context\\mahasiswacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB292E26-21AB-425E-B79C-E077FD7DBA45}|winform_mvc.csproj|solutionrelative:app\\context\\mahasiswacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB292E26-21AB-425E-B79C-E077FD7DBA45}|winform_mvc.csproj|e:\\01. kuliah\\02. ngoding\\belajar ngoding\\c#\\winform_mvc\\views\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB292E26-21AB-425E-B79C-E077FD7DBA45}|winform_mvc.csproj|solutionrelative:views\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB292E26-21AB-425E-B79C-E077FD7DBA45}|winform_mvc.csproj|E:\\01. KULIAH\\02. Ngoding\\Belajar Ngoding\\C#\\winform_mvc\\views\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB292E26-21AB-425E-B79C-E077FD7DBA45}|winform_mvc.csproj|solutionrelative:views\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB292E26-21AB-425E-B79C-E077FD7DBA45}|winform_mvc.csproj|E:\\01. KULIAH\\02. Ngoding\\Belajar Ngoding\\C#\\winform_mvc\\app\\models\\m_prodi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB292E26-21AB-425E-B79C-E077FD7DBA45}|winform_mvc.csproj|solutionrelative:app\\models\\m_prodi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddMahasiswaForm.cs [Design]",
+              "DocumentMoniker": "E:\\01. KULIAH\\02. Ngoding\\Belajar Ngoding\\C#\\winform_mvc\\Views\\AddMahasiswaForm.cs",
+              "RelativeDocumentMoniker": "Views\\AddMahasiswaForm.cs",
+              "ToolTip": "E:\\01. KULIAH\\02. Ngoding\\Belajar Ngoding\\C#\\winform_mvc\\Views\\AddMahasiswaForm.cs [Design]",
+              "RelativeToolTip": "Views\\AddMahasiswaForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T03:20:41.515Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddMahasiswaForm.Designer.cs",
+              "DocumentMoniker": "E:\\01. KULIAH\\02. Ngoding\\Belajar Ngoding\\C#\\winform_mvc\\Views\\AddMahasiswaForm.Designer.cs",
+              "RelativeDocumentMoniker": "Views\\AddMahasiswaForm.Designer.cs",
+              "ToolTip": "E:\\01. KULIAH\\02. Ngoding\\Belajar Ngoding\\C#\\winform_mvc\\Views\\AddMahasiswaForm.Designer.cs",
+              "RelativeToolTip": "Views\\AddMahasiswaForm.Designer.cs",
+              "ViewState": "AQIAAJUAAAAAAAAAAAAcwKMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T03:20:32.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "M_Prodi.cs",
+              "DocumentMoniker": "E:\\01. KULIAH\\02. Ngoding\\Belajar Ngoding\\C#\\winform_mvc\\App\\Models\\M_Prodi.cs",
+              "RelativeDocumentMoniker": "App\\Models\\M_Prodi.cs",
+              "ToolTip": "E:\\01. KULIAH\\02. Ngoding\\Belajar Ngoding\\C#\\winform_mvc\\App\\Models\\M_Prodi.cs",
+              "RelativeToolTip": "App\\Models\\M_Prodi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T02:51:22.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MahasiswaContext.cs",
+              "DocumentMoniker": "E:\\01. KULIAH\\02. Ngoding\\Belajar Ngoding\\C#\\winform_mvc\\App\\Context\\MahasiswaContext.cs",
+              "RelativeDocumentMoniker": "App\\Context\\MahasiswaContext.cs",
+              "ToolTip": "E:\\01. KULIAH\\02. Ngoding\\Belajar Ngoding\\C#\\winform_mvc\\App\\Context\\MahasiswaContext.cs",
+              "RelativeToolTip": "App\\Context\\MahasiswaContext.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAkwG8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T02:24:57.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddMahasiswaForm.cs",
+              "DocumentMoniker": "E:\\01. KULIAH\\02. Ngoding\\Belajar Ngoding\\C#\\winform_mvc\\Views\\AddMahasiswaForm.cs",
+              "RelativeDocumentMoniker": "Views\\AddMahasiswaForm.cs",
+              "ToolTip": "E:\\01. KULIAH\\02. Ngoding\\Belajar Ngoding\\C#\\winform_mvc\\Views\\AddMahasiswaForm.cs",
+              "RelativeToolTip": "Views\\AddMahasiswaForm.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAwGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T02:22:50.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "E:\\01. KULIAH\\02. Ngoding\\Belajar Ngoding\\C#\\winform_mvc\\Views\\MainForm.cs",
+              "RelativeDocumentMoniker": "Views\\MainForm.cs",
+              "ToolTip": "E:\\01. KULIAH\\02. Ngoding\\Belajar Ngoding\\C#\\winform_mvc\\Views\\MainForm.cs",
+              "RelativeToolTip": "Views\\MainForm.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAswGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T02:22:35.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "E:\\01. KULIAH\\02. Ngoding\\Belajar Ngoding\\C#\\winform_mvc\\Views\\MainForm.cs",
+              "RelativeDocumentMoniker": "Views\\MainForm.cs",
+              "ToolTip": "E:\\01. KULIAH\\02. Ngoding\\Belajar Ngoding\\C#\\winform_mvc\\Views\\MainForm.cs [Design]",
+              "RelativeToolTip": "Views\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T02:22:32.363Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

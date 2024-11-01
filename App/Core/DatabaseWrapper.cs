@@ -75,54 +75,54 @@ namespace winform_mvc.App.Core
             }
         }
 
-        public static int commandExecutorIntValue(string query, NpgsqlParameter[] parameters = null)
-        {
-            int value = 0;
-            try
-            {
-                openConnection();
-                command.CommandText = query;
-                command.Parameters.AddRange(parameters);
-                command.Prepare();
+        //public static int commandExecutorIntValue(string query, NpgsqlParameter[] parameters = null)
+        //{
+        //    int value = 0;
+        //    try
+        //    {
+        //        openConnection();
+        //        command.CommandText = query;
+        //        command.Parameters.AddRange(parameters);
+        //        command.Prepare();
 
-                object result = command.ExecuteScalar();
-                if (result != null && result != DBNull.Value)
-                {
-                    value = Convert.ToInt32(result);
-                }
+        //        object result = command.ExecuteScalar();
+        //        if (result != null && result != DBNull.Value)
+        //        {
+        //            value = Convert.ToInt32(result);
+        //        }
 
-                closeConnection();
-            }
-            catch (Exception e)
-            {
-                throw new Exception(e.Message);
-            }
-            return value;
-        }
-        public static string commandExecutorStringValue(string query, NpgsqlParameter[] parameters = null)
-        {
-            string value = "";
-            try
-            {
-                openConnection();
-                command.CommandText = query;
-                command.Parameters.AddRange(parameters);
-                command.Prepare();
+        //        closeConnection();
+        //    }
+        //    catch (Exception e)
+        //    {
+        //        throw new Exception(e.Message);
+        //    }
+        //    return value;
+        //}
+        //public static string commandExecutorStringValue(string query, NpgsqlParameter[] parameters = null)
+        //{
+        //    string value = "";
+        //    try
+        //    {
+        //        openConnection();
+        //        command.CommandText = query;
+        //        command.Parameters.AddRange(parameters);
+        //        command.Prepare();
 
-                object result = command.ExecuteScalar();
-                if (result != null && result != DBNull.Value)
-                {
-                    value = Convert.ToString(result);
-                }
+        //        object result = command.ExecuteScalar();
+        //        if (result != null && result != DBNull.Value)
+        //        {
+        //            value = Convert.ToString(result);
+        //        }
 
-                closeConnection();
-            }
-            catch (Exception e)
-            {
-                throw new Exception(e.Message);
-            }
-            return value;
-        }
+        //        closeConnection();
+        //    }
+        //    catch (Exception e)
+        //    {
+        //        throw new Exception(e.Message);
+        //    }
+        //    return value;
+        //}
 
     }
 }

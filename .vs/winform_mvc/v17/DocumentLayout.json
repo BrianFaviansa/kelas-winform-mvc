@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\01. KULIAH\\02. Ngoding\\Belajar Ngoding\\C#\\winform_mvc\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DB292E26-21AB-425E-B79C-E077FD7DBA45}|winform_mvc.csproj|e:\\01. kuliah\\02. ngoding\\belajar ngoding\\c#\\winform_mvc\\app\\core\\databasewrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB292E26-21AB-425E-B79C-E077FD7DBA45}|winform_mvc.csproj|solutionrelative:app\\core\\databasewrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DB292E26-21AB-425E-B79C-E077FD7DBA45}|winform_mvc.csproj|e:\\01. kuliah\\02. ngoding\\belajar ngoding\\c#\\winform_mvc\\views\\addmahasiswaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DB292E26-21AB-425E-B79C-E077FD7DBA45}|winform_mvc.csproj|solutionrelative:views\\addmahasiswaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -38,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,7 +74,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "DatabaseWrapper.cs",
+              "DocumentMoniker": "E:\\01. KULIAH\\02. Ngoding\\Belajar Ngoding\\C#\\winform_mvc\\App\\Core\\DatabaseWrapper.cs",
+              "RelativeDocumentMoniker": "App\\Core\\DatabaseWrapper.cs",
+              "ToolTip": "E:\\01. KULIAH\\02. Ngoding\\Belajar Ngoding\\C#\\winform_mvc\\App\\Core\\DatabaseWrapper.cs",
+              "RelativeToolTip": "App\\Core\\DatabaseWrapper.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAYwBkAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T05:19:27.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "AddMahasiswaForm.cs [Design]",
               "DocumentMoniker": "E:\\01. KULIAH\\02. Ngoding\\Belajar Ngoding\\C#\\winform_mvc\\Views\\AddMahasiswaForm.cs",
               "RelativeDocumentMoniker": "Views\\AddMahasiswaForm.cs",
@@ -82,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AddMahasiswaForm.Designer.cs",
               "DocumentMoniker": "E:\\01. KULIAH\\02. Ngoding\\Belajar Ngoding\\C#\\winform_mvc\\Views\\AddMahasiswaForm.Designer.cs",
               "RelativeDocumentMoniker": "Views\\AddMahasiswaForm.Designer.cs",
@@ -90,12 +107,11 @@
               "RelativeToolTip": "Views\\AddMahasiswaForm.Designer.cs",
               "ViewState": "AQIAAFMAAAAAAAAAAAAcwKMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T03:20:32.104Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T03:20:32.104Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "M_Prodi.cs",
               "DocumentMoniker": "E:\\01. KULIAH\\02. Ngoding\\Belajar Ngoding\\C#\\winform_mvc\\App\\Models\\M_Prodi.cs",
               "RelativeDocumentMoniker": "App\\Models\\M_Prodi.cs",
@@ -107,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MahasiswaContext.cs",
               "DocumentMoniker": "E:\\01. KULIAH\\02. Ngoding\\Belajar Ngoding\\C#\\winform_mvc\\App\\Context\\MahasiswaContext.cs",
               "RelativeDocumentMoniker": "App\\Context\\MahasiswaContext.cs",
@@ -119,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AddMahasiswaForm.cs",
               "DocumentMoniker": "E:\\01. KULIAH\\02. Ngoding\\Belajar Ngoding\\C#\\winform_mvc\\Views\\AddMahasiswaForm.cs",
               "RelativeDocumentMoniker": "Views\\AddMahasiswaForm.cs",
@@ -132,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "MainForm.cs",
               "DocumentMoniker": "E:\\01. KULIAH\\02. Ngoding\\Belajar Ngoding\\C#\\winform_mvc\\Views\\MainForm.cs",
               "RelativeDocumentMoniker": "Views\\MainForm.cs",
@@ -144,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "MainForm.cs [Design]",
               "DocumentMoniker": "E:\\01. KULIAH\\02. Ngoding\\Belajar Ngoding\\C#\\winform_mvc\\Views\\MainForm.cs",
               "RelativeDocumentMoniker": "Views\\MainForm.cs",

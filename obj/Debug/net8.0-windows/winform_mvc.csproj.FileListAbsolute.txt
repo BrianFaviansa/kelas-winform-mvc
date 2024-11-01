@@ -20,3 +20,4 @@ E:\01. KULIAH\02. Ngoding\Belajar Ngoding\C#\winform_mvc\obj\Debug\net8.0-window
 E:\01. KULIAH\02. Ngoding\Belajar Ngoding\C#\winform_mvc\obj\Debug\net8.0-windows\winform_mvc.pdb
 E:\01. KULIAH\02. Ngoding\Belajar Ngoding\C#\winform_mvc\obj\Debug\net8.0-windows\winform_mvc.genruntimeconfig.cache
 E:\01. KULIAH\02. Ngoding\Belajar Ngoding\C#\winform_mvc\obj\Debug\net8.0-windows\ref\winform_mvc.dll
+E:\01. KULIAH\02. Ngoding\Belajar Ngoding\C#\winform_mvc\obj\Debug\net8.0-windows\winform_mvc.sourcelink.json

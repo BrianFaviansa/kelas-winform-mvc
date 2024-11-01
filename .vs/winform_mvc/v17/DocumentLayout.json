@@ -3,23 +3,23 @@
   "WorkspaceRootPath": "E:\\01. KULIAH\\02. Ngoding\\Belajar Ngoding\\C#\\winform_mvc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DB292E26-21AB-425E-B79C-E077FD7DBA45}|winform_mvc.csproj|E:\\01. KULIAH\\02. Ngoding\\Belajar Ngoding\\C#\\winform_mvc\\views\\addmahasiswaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DB292E26-21AB-425E-B79C-E077FD7DBA45}|winform_mvc.csproj|e:\\01. kuliah\\02. ngoding\\belajar ngoding\\c#\\winform_mvc\\views\\addmahasiswaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DB292E26-21AB-425E-B79C-E077FD7DBA45}|winform_mvc.csproj|solutionrelative:views\\addmahasiswaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB292E26-21AB-425E-B79C-E077FD7DBA45}|winform_mvc.csproj|e:\\01. kuliah\\02. ngoding\\belajar ngoding\\c#\\winform_mvc\\views\\addmahasiswaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DB292E26-21AB-425E-B79C-E077FD7DBA45}|winform_mvc.csproj|solutionrelative:views\\addmahasiswaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{DB292E26-21AB-425E-B79C-E077FD7DBA45}|winform_mvc.csproj|E:\\01. KULIAH\\02. Ngoding\\Belajar Ngoding\\C#\\winform_mvc\\views\\addmahasiswaform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB292E26-21AB-425E-B79C-E077FD7DBA45}|winform_mvc.csproj|solutionrelative:views\\addmahasiswaform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB292E26-21AB-425E-B79C-E077FD7DBA45}|winform_mvc.csproj|e:\\01. kuliah\\02. ngoding\\belajar ngoding\\c#\\winform_mvc\\views\\addmahasiswaform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB292E26-21AB-425E-B79C-E077FD7DBA45}|winform_mvc.csproj|solutionrelative:views\\addmahasiswaform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DB292E26-21AB-425E-B79C-E077FD7DBA45}|winform_mvc.csproj|E:\\01. KULIAH\\02. Ngoding\\Belajar Ngoding\\C#\\winform_mvc\\views\\addmahasiswaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB292E26-21AB-425E-B79C-E077FD7DBA45}|winform_mvc.csproj|solutionrelative:views\\addmahasiswaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DB292E26-21AB-425E-B79C-E077FD7DBA45}|winform_mvc.csproj|E:\\01. KULIAH\\02. Ngoding\\Belajar Ngoding\\C#\\winform_mvc\\app\\context\\mahasiswacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DB292E26-21AB-425E-B79C-E077FD7DBA45}|winform_mvc.csproj|solutionrelative:app\\context\\mahasiswacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB292E26-21AB-425E-B79C-E077FD7DBA45}|winform_mvc.csproj|e:\\01. kuliah\\02. ngoding\\belajar ngoding\\c#\\winform_mvc\\views\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DB292E26-21AB-425E-B79C-E077FD7DBA45}|winform_mvc.csproj|E:\\01. KULIAH\\02. Ngoding\\Belajar Ngoding\\C#\\winform_mvc\\views\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DB292E26-21AB-425E-B79C-E077FD7DBA45}|winform_mvc.csproj|solutionrelative:views\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -70,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AddMahasiswaForm.cs [Design]",
               "DocumentMoniker": "E:\\01. KULIAH\\02. Ngoding\\Belajar Ngoding\\C#\\winform_mvc\\Views\\AddMahasiswaForm.cs",
               "RelativeDocumentMoniker": "Views\\AddMahasiswaForm.cs",
@@ -82,13 +82,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "AddMahasiswaForm.Designer.cs",
               "DocumentMoniker": "E:\\01. KULIAH\\02. Ngoding\\Belajar Ngoding\\C#\\winform_mvc\\Views\\AddMahasiswaForm.Designer.cs",
               "RelativeDocumentMoniker": "Views\\AddMahasiswaForm.Designer.cs",
               "ToolTip": "E:\\01. KULIAH\\02. Ngoding\\Belajar Ngoding\\C#\\winform_mvc\\Views\\AddMahasiswaForm.Designer.cs",
               "RelativeToolTip": "Views\\AddMahasiswaForm.Designer.cs",
-              "ViewState": "AQIAAJUAAAAAAAAAAAAcwKMAAAAAAAAA",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAcwKMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T03:20:32.104Z",
               "EditorCaption": ""
@@ -115,8 +115,7 @@
               "RelativeToolTip": "App\\Context\\MahasiswaContext.cs",
               "ViewState": "AQIAAFQAAAAAAAAAAAAkwG8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T02:24:57.739Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T02:24:57.739Z"
             },
             {
               "$type": "Document",
@@ -126,7 +125,7 @@
               "RelativeDocumentMoniker": "Views\\AddMahasiswaForm.cs",
               "ToolTip": "E:\\01. KULIAH\\02. Ngoding\\Belajar Ngoding\\C#\\winform_mvc\\Views\\AddMahasiswaForm.cs",
               "RelativeToolTip": "Views\\AddMahasiswaForm.cs",
-              "ViewState": "AQIAAFcAAAAAAAAAAAAAwGMAAAAAAAAA",
+              "ViewState": "AQIAADUAAAAAAAAAAAAcwEsAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T02:22:50.54Z",
               "EditorCaption": ""
@@ -141,8 +140,7 @@
               "RelativeToolTip": "Views\\MainForm.cs",
               "ViewState": "AQIAAE8AAAAAAAAAAAAswGIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T02:22:35.987Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T02:22:35.987Z"
             },
             {
               "$type": "Document",

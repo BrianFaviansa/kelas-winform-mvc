@@ -65,6 +65,7 @@ namespace winform_mvc.Views
             comboBox1.DisplayMember = "nama_prodi";
             comboBox1.ValueMember = "id";
             comboBox1.DataSource = dataProdi;
+            comboBox1.DropDownStyle = ComboBoxStyle.DropDownList;
         }
 
         private bool ValidateInput()
